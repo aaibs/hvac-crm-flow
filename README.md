@@ -7,4 +7,5 @@ Interactive presentation deck on Ductwork Quoting & HVAC CRM workflows.
 
 ## 📄 Contents
 - index.html: Main interactive deck presentation.
-- ductwork_deck_2.html: Standalone slide deck copy.
+- How_Ductwork_Gets_Quoted.html: Presentation deck file.
+- ductwork_deck_2.html: Previous presentation deck copy.
